@@ -1,0 +1,2 @@
+Raj,raj000@gmail.com,12345678,Customer
+Ishrak Jahan Mim,isumim11@gmail.com,123456,Customer
